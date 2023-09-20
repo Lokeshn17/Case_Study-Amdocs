@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.training.studentservice.StudentServiceTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 6.421 s <<< FAILURE! - in com.training.studentservice.StudentServiceTest
+testStudent  Time elapsed: 0.144 s  <<< FAILURE!
+java.lang.AssertionError: Content type not set
+	at com.training.studentservice.StudentServiceTest.testStudent(StudentServiceTest.java:23)
+

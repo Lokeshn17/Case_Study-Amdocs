@@ -1,0 +1,4 @@
+com\training\studentservice\StudentServiceApplication.class
+com\training\studentservice\repository\StudentRepository.class
+com\training\studentservice\model\Student.class
+com\training\studentservice\controller\StudentController.class
